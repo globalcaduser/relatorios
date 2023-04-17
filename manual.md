@@ -1,10 +1,9 @@
 # relatorios
    ![Imagem3](https://user-images.githubusercontent.com/130560587/231444587-d1a8de68-5cc6-4ed4-bf4f-ac1a21810b1e.png)
-#  Manual do Usuário - Click Segurança - Inspeção de Segurança
+##  Manual do Usuário - Extração e Configuração de Visões de Relatórios - Visão Mapa/Cluster
 
 ## [Sumário](#sumário)
 - [Introdução](#introdução)
-- [Baixando o APP GlobalCad](#baixando-o-app-globalcad)
 - [Acesso Inicial](#acesso-inicial)
 - [Selecionar Módulo](#selecionar-módulo)
 - [Selecionar Tipo de Inspeção ou Análise de Risco](#selecionar-tipo-de-inspeção-ou-análise-de-risco)
@@ -18,38 +17,39 @@
 - [Conclusão da Inspeção](#conclusão-da-inspeção)
 - [Consulta aos arquivos de Inspeções enviados](#consulta-aos-arquivos-de-inspeções-enviados)
 
-# Introdução 
+## Introdução 
 [Voltar ao topo](#sumário)
 
-Bem-vindo ao manual de treinamento do aplicativo mobile da GlobalCad, o Click Segurança. Este manual foi desenvolvido para ajudá-lo a aprender a utilizar todas as funcionalidades do nosso software de forma rápida e eficiente.
+Bem-vindo ao manual de treinamento do acesso via Web da GlobalCad. Este manual foi desenvolvido para ajudá-lo a aprender a utilizar todas as funcionalidades do nosso software de forma rápida e eficiente.
 Nosso objetivo é fornecer a você as informações necessárias para que possa utilizar todas as ferramentas e recursos do software, aprimorando suas habilidades e tornando seu trabalho mais produtivo.
 Este manual de treinamento foi elaborado com uma linguagem simples e didática, dividido em módulos que o guiarão passo a passo em todo o processo de aprendizagem. Além disso, incluímos exemplos práticos e dicas úteis que o ajudarão a aproveitar ao máximo as funcionalidades do software.
 Este é um guia vivo e dinâmico, que será atualizado regularmente para manter as informações sempre atualizadas e relevantes. Estamos ansiosos para ajudá-lo a se tornar um utilizador independente no Click Segurança e esperamos que este manual seja útil e eficaz em sua jornada de aprendizado.
 
-# Baixando o APP GlobalCad
-[Voltar ao topo](#sumário)
 
-Abaixo, o passo a passo para a instalação do APP da GlobalCad:
-1. Abra o Google Play Store no seu dispositivo Android. Você pode encontrar o ícone da loja de aplicativos na sua tela inicial, no menu de aplicativos ou na barra de pesquisa do Google.
-2. Pesquise o aplicativo que deseja baixar na barra de pesquisa ou navegue pelas categorias e listas em destaque na página inicial do Google Play Store.
-Segue o link: https://play.google.com/store/apps/details?id=globalcad.services&hl=pt_BR&gl=US
-3. Quando encontrar o aplicativo que deseja baixar, clique nele para abrir a página de informações do aplicativo.
-4. Na página de informações do aplicativo, você pode ler mais detalhes sobre o aplicativo, como as avaliações e comentários de outros usuários, a descrição do aplicativo, imagens, entre outros. Certifique-se de ler tudo antes de fazer o download.
-5. Se quiser continuar e baixar o aplicativo, clique no botão “Instalar” ou “Baixar”. Em seguida, você verá uma mensagem que pede permissão para que o aplicativo acesse determinadas informações ou recursos do seu dispositivo, como a câmera, a galeria de fotos ou o microfone. Leia com atenção as informações exibidas na tela e, se estiver tudo bem, clique em “Aceitar”.
-
-# Acesso Inicial
+## Acesso Inicial
 [Voltar ao topo](#sumário)
 
 Na tela Inicial, coloque seu login/usuário e sua senha cadastrada. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231446980-01c77713-2e26-4efd-8ac7-974f225e05ad.jpg" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232593441-eab33589-d17b-4478-b464-8aa4f3ddade9.PNG" height="350">
+
+Visão da tela inicial, com o usuário já logado.
+
+<img src="https://user-images.githubusercontent.com/130560587/232593704-d243d58e-38f4-4c30-bee3-a75058eb5c28.PNG" height="350">
+
 
 # Selecionar Módulo
 [Voltar ao topo](#sumário)
 
 Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check List entre outros que estiverem contratados. 
 
-<img src="https://user-images.githubusercontent.com/130560587/231448108-43cbc200-b4a7-4adf-83de-2deb7cb78f5e.jpg" height="350">   
+<img src="https://user-images.githubusercontent.com/130560587/232594480-9f13c7aa-d461-457d-9fe7-ef14e76264f3.PNG" height="350">
+
+Selecionar o tipo de relatório a ser acessado. Nós temos 4 níveis de relatório os quais exemplificamos abaixo:
+
+- O relatório de nível 1 - analítico:  representado pelos "3 traços" em paralelo;
+- 
+
 
 # Selecionar Tipo de Inspeção ou Análise de Risco
 [Voltar ao topo](#sumário)
