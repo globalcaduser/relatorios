@@ -7,6 +7,7 @@
 - [Acesso Inicial](#acesso-inicial)
 - [Selecionar Módulo](#selecionar-módulo)
 - [Selecionando Níveis de Relatórios](#selecionando-níveis-de-relatórios)
+- [Como configurar as visões de Relatórios](#como-configurar-as-visões-de-relatórios)
 
 
 ## Introdução 
@@ -84,8 +85,17 @@ Painel com a visão Geral inicial
 <img src="https://user-images.githubusercontent.com/130560587/232599443-caea0dfa-b95d-4068-98d4-f9def6d12bdf.png" height="350">
 
 
+## Como configurar as visões de Relatórios
+[Voltar ao topo](#sumário)
+
+Utilizaremos o relatório de NÍVEL 1, como exemplo na configuração de visões. É importante primeiro entendermos as funcionalidades do menu suspenso. 
+
+- Ações: Dentro desse item, conseguimos inserir um novo item relacionado ao módulo(Nova Inspeção, Nova APR e etc). Também conseguimos gerar o "Mapa/Cluster" relacionado à visão salva. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
 
 
+- 
 
 
 
