@@ -45,10 +45,41 @@ Selecione o módulo a ser acesssado: Inspeção de Segurança, APR/AR, Check Lis
 
 <img src="https://user-images.githubusercontent.com/130560587/232594480-9f13c7aa-d461-457d-9fe7-ef14e76264f3.PNG" height="350">
 
+# Selecionando Níveis de Relatórios
+[Voltar ao topo](#sumário)
+
 Selecionar o tipo de relatório a ser acessado. Nós temos 4 níveis de relatório os quais exemplificamos abaixo:
 
-- O relatório de nível 1 - analítico:  representado pelos "3 traços" em paralelo;
-- 
+- O relatório de nível 1 ou relatório analítico, que é representado pelos "3 traços" em paralelo, e enxergamos as inspeções da forma mais granular existente:
+
+<img src="https://user-images.githubusercontent.com/130560587/232595390-1a97b280-8e64-41f8-9561-fae7fcb4db4a.PNG" height="350">
+
+- O relatório de nível 2 ou mapa/cluster, fica dentro do relatório de nível 1, porém selecionamos a exibição do Ver Mapa para enxergarmos:
+
+<img src="https://user-images.githubusercontent.com/130560587/232595751-83f6c80b-70de-4154-af80-5a63acf6eca7.png" height="350">
+
+<img src="https://user-images.githubusercontent.com/130560587/232595746-1a8e6afb-d123-492c-9173-66c7cd211190.png" height="350">
+
+<img src="https://user-images.githubusercontent.com/130560587/232595744-95b74b91-2bc0-4c76-90f6-43b457f1ad9e.png" height="350">
+
+Outra visão possível, é conseguirmos gerar um "mapa de calor", ao clicarmos no botão que fica no canto direito alto da tela, em formato parecido com um "ovo frito":
+
+<img src="https://user-images.githubusercontent.com/130560587/232595739-cd531770-7bec-4c56-804d-447898b2aad6.png" height="350">
+
+Também disponível, a visão "cluster" resume no mapa o volume de inspeções concentradas nas areas do mapa, ao clicarmos no botão à direita do formato parecido com um "ovo frito": 
+
+<img src="https://user-images.githubusercontent.com/130560587/232595720-a97d18f1-e697-43c6-851e-775ae3300ccd.png" height="350">
+
+- O relatório de nível 3 ou estatístico, traz uma visão mais técnico/gerencial, com os dados da forma mais aglutinada. A característica desse tipo de relatório, é que sempre à esquerda dele, teremos as "dimensões" e/ou parâmetros a serem avaliados. À direita dele, teremos os KPI´s relacionados/escolhidos conforme análise a ser realizada. Seguem exemplos:
+
+
+
+<img src="https://user-images.githubusercontent.com/130560587/232598092-ef0bf617-485a-4113-9890-f7433ab4047f.png" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232598096-eac7f34e-c49c-4f44-94cd-69f16fb5f4c3.png" height="350">
+
+
+
+
 
 
 # Selecionar Tipo de Inspeção ou Análise de Risco
