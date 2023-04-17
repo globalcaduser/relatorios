@@ -1,6 +1,6 @@
 # relatorios
    ![Imagem3](https://user-images.githubusercontent.com/130560587/231444587-d1a8de68-5cc6-4ed4-bf4f-ac1a21810b1e.png)
-##  Manual do Usuário - Extração e Configuração de Visões de Relatórios - Visão Mapa/Cluster
+##  Manual do Usuário - Relatórios - Configuração de Visões e demais funcionalidades
 
 ## [Sumário](#sumário)
 - [Introdução](#introdução)
