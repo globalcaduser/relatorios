@@ -90,14 +90,23 @@ Painel com a visão Geral inicial
 
 Utilizaremos o relatório de NÍVEL 1, como exemplo na configuração de visões. É importante primeiro entendermos as funcionalidades do menu suspenso. 
 
-- Ações: Dentro desse item, conseguimos inserir um novo item relacionado ao módulo(Nova Inspeção, Nova APR e etc). Também conseguimos gerar o "Mapa/Cluster" relacionado à visão salva. 
+- Ações: Dentro desse item, conseguimos inserir um novo item relacionado ao módulo(Nova Inspeção, Nova APR e etc).  
 
 <img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
 
+Também conseguimos gerar o "Mapa/Cluster" relacionado à visão salva.
 
-- 
+<img src="https://user-images.githubusercontent.com/130560587/232602279-6b7e6b35-1036-4a39-b6cb-893d9a09a4c5.png" height="350">
 
+Ainda dentro de Ações, conseguimos ao clicar em cima de um item/linha específico do relatório analítico e gerar um PDF desse item selecionado. Basta clicarmos na opção PDF ao abrir o menu suspenso Ações.
 
+<img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
+
+<img src="https://user-images.githubusercontent.com/130560587/232602696-dca2586b-035a-43c4-9756-feea6c9b5a8f.png" height="350">
+
+Conseguimos também, gerar uma extração para Excel do relatório como um todo, basta selecionarmos a opção XLSX.
+
+<img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
 
 
 ### A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
