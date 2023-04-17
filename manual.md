@@ -85,12 +85,12 @@ Painel com a visão Geral inicial
 <img src="https://user-images.githubusercontent.com/130560587/232599443-caea0dfa-b95d-4068-98d4-f9def6d12bdf.png" height="350">
 
 
-## Como configurar as visões de Relatórios
+## Entendendo o Menu Suspenso(Abas) - Relatórios
 [Voltar ao topo](#sumário)
 
 Utilizaremos o relatório de NÍVEL 1, como exemplo na configuração de visões. É importante primeiro entendermos as funcionalidades do menu suspenso. 
 
-- Ações: Dentro desse item, conseguimos inserir um novo item relacionado ao módulo(Nova Inspeção, Nova APR e etc).  
+- Ações: Dentro dessa aba, conseguimos inserir um novo item relacionado ao módulo(Nova Inspeção, Nova APR e etc).  
 
 <img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
 
@@ -107,6 +107,36 @@ Ainda dentro de Ações, conseguimos ao clicar em cima de um item/linha específ
 Conseguimos também, gerar uma extração para Excel do relatório como um todo, basta selecionarmos a opção XLSX.
 
 <img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
+
+- Colunas: Dentro dessa aba, conseguimos customizar as visões de relatório, ao selecionarmos e desmarcarmos itens. Dessa forma, conseguimos ter de forma personalizada, diversas visões de relatórios. 
+
+<img src="https://user-images.githubusercontent.com/130560587/232605110-d9749bf2-b460-49e0-b2db-e07a60fc2a3e.png" height="350">
+
+- Filtros: Dentro dessa aba, temos a condição de filtrar conforme necessidade de enxergarmos as informações, já filtradas e segmentadas. Vem pra ser uma forma complementar à aba Coluna, servindo de apoio pra refinar ainda mais as informações. 
+OBS: É importante sempre lembrar de utilizar o ícone em formato de "borracha" afim de limpar todos filtros utilizados, dessa forma a construção de uma nova visão, não virá distorcida.
+
+<img width="938" alt="tela 8" src="https://user-images.githubusercontent.com/130560587/232606956-8f8eea82-1fc6-4188-8933-fbeff00e1465.png">
+
+- Visão: Após todas esses ajustes, utilizando as abas, conseguimos salvar as visões criadas nessa aba. Ao clicarmos em cima dela, aparecerá a visão "Salvar Como", e salvamos conforme necessidade.
+
+<img src="https://user-images.githubusercontent.com/130560587/232606509-eec2e0e1-c871-42fc-886d-7c33fbdb443b.png" height="350">
+
+No canto alto à direita, conseguimos visualizar as diversas visões criadas e selecionar conforme necessidade, cada uma delas.
+
+<img src="https://user-images.githubusercontent.com/130560587/232605699-4c983a57-464d-4ca9-9df9-d5a8f499ce66.png" height="350">
+
+## Outras Funcionalidades - Relatórios
+[Voltar ao topo](#sumário)
+
+Dentro ainda dos Relatórios, especificamente dentro de Relatórios Analíticos, conseguimos Editar e Excluir Registros. Lembrando que essas funcionalidades, estarão habilitadas, conforme perfil de acesso de cada usuário.
+
+- Editar:
+
+<img src="https://user-images.githubusercontent.com/130560587/232608227-1b5fa681-4dee-463e-9de0-cde0c904563b.png" height="350">
+
+- Excluir:
+
+<img src="https://user-images.githubusercontent.com/130560587/232608392-e5503967-da22-4b96-8829-44682ade2fe1.png" height="350">
 
 
 ### A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
