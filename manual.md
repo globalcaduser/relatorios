@@ -8,9 +8,8 @@
 - [Selecionar Módulo](#selecionar-módulo)
 - [Selecionando Níveis de Relatórios](#selecionando-níveis-de-relatórios)
 - [Entendendo o Menu Suspenso](#entendendo-o-menu-suspenso) 
-- [Como configurar as visões de Relatórios](#como-configurar-as-visões-de-relatórios)
 - [Outras Funcionalidades](#outras-funcionalidades)
-- [Link de acesso ao vídeo tutorial de utilização](#link-de-acesso-ao-video-tutorial-de-utilização)
+- [Tutorial de Utilização](#tutorial-de-utilização)
 
 
 ## Introdução 
@@ -137,7 +136,8 @@ Dentro ainda dos Relatórios, especificamente dentro de Relatórios Analíticos,
 
 <img src="https://user-images.githubusercontent.com/130560587/232608392-e5503967-da22-4b96-8829-44682ade2fe1.png" height="350">
 
-## Link de acesso ao vídeo tutorial de utilização
+## Tutorial de Utilização
+[Voltar ao topo](#sumário)
 
 https://youtu.be/ojA8Wyjm8MA
 
