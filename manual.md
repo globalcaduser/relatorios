@@ -141,7 +141,6 @@ Dentro ainda dos Relatórios, especificamente dentro de Relatórios Analíticos,
 
 https://youtu.be/ojA8Wyjm8MA
 
-
 ### A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
 
 
