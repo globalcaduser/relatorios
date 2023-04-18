@@ -10,6 +10,7 @@
 - [Entendendo o Menu Suspenso - Abas](#entendendo-o-menu-suspenso-abas) 
 - [Como configurar as visões de Relatórios](#como-configurar-as-visões-de-relatórios)
 - [Outras Funcionalidades - Relatórios](#outras-funcionalidades-relatórios)
+- [Link de acesso ao vídeo tutorial de utilização](#link-de-acesso-ao-video-tutorial-de-utilização)
 
 
 ## Introdução 
@@ -136,7 +137,7 @@ Dentro ainda dos Relatórios, especificamente dentro de Relatórios Analíticos,
 
 <img src="https://user-images.githubusercontent.com/130560587/232608392-e5503967-da22-4b96-8829-44682ade2fe1.png" height="350">
 
-## Link de acesso ao vídeo tutorial:
+## Link de acesso ao vídeo tutorial de utilização
 
 https://youtu.be/ojA8Wyjm8MA
 
