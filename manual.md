@@ -134,6 +134,10 @@ Dentro ainda dos Relatórios, especificamente dentro de Relatórios Analíticos,
 
 <img src="https://user-images.githubusercontent.com/130560587/232608392-e5503967-da22-4b96-8829-44682ade2fe1.png" height="350">
 
+## Link de acesso ao vídeo tutorial:
+
+https://youtu.be/ojA8Wyjm8MA
+
 
 ### A GLOBALCAD agradece pela atenção dispensada na leitura do material e esperamos que ele possa ser de grande valia na utilizção do APP. 
 
