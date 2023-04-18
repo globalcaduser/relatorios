@@ -7,7 +7,9 @@
 - [Acesso Inicial](#acesso-inicial)
 - [Selecionar Módulo](#selecionar-módulo)
 - [Selecionando Níveis de Relatórios](#selecionando-níveis-de-relatórios)
+- [Entendendo o Menu Suspenso - Abas](#entendendo-o-menu-suspenso-abas) 
 - [Como configurar as visões de Relatórios](#como-configurar-as-visões-de-relatórios)
+- [Outras Funcionalidades - Relatórios](#outras-funcionalidades-relatórios)
 
 
 ## Introdução 
@@ -83,7 +85,7 @@ Painel com a visão Geral inicial
 <img src="https://user-images.githubusercontent.com/130560587/232599443-caea0dfa-b95d-4068-98d4-f9def6d12bdf.png" height="350">
 
 
-## Entendendo o Menu Suspenso(Abas) - Relatórios
+## Entendendo o Menu Suspenso - Abas
 [Voltar ao topo](#sumário)
 
 Utilizaremos o relatório de NÍVEL 1, como exemplo na configuração de visões. É importante primeiro entendermos as funcionalidades do menu suspenso. 
