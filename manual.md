@@ -50,9 +50,7 @@ Selecionar o tipo de relatório a ser acessado. Nós temos 4 níveis de relatór
 
 - O relatório de NÍVEL 2 ou mapa/cluster, fica dentro do relatório de nível 1, porém selecionamos a exibição do Ver Mapa para enxergarmos:
 
-<img src="https://user-images.githubusercontent.com/130560587/232595751-83f6c80b-70de-4154-af80-5a63acf6eca7.png" height="350">
-
-<img src="https://user-images.githubusercontent.com/130560587/232595746-1a8e6afb-d123-492c-9173-66c7cd211190.png" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232595751-83f6c80b-70de-4154-af80-5a63acf6eca7.png" height="350"><img src="https://user-images.githubusercontent.com/130560587/232595746-1a8e6afb-d123-492c-9173-66c7cd211190.png" height="350">
 
 <img src="https://user-images.githubusercontent.com/130560587/232595744-95b74b91-2bc0-4c76-90f6-43b457f1ad9e.png" height="350">
 
@@ -100,9 +98,7 @@ Também conseguimos gerar o "Mapa/Cluster" relacionado à visão salva.
 
 Ainda dentro de Ações, conseguimos ao clicar em cima de um item/linha específico do relatório analítico e gerar um PDF desse item selecionado. Basta clicarmos na opção PDF ao abrir o menu suspenso Ações.
 
-<img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350">
-
-<img src="https://user-images.githubusercontent.com/130560587/232602696-dca2586b-035a-43c4-9756-feea6c9b5a8f.png" height="350">
+<img src="https://user-images.githubusercontent.com/130560587/232601877-49b57c19-ddfb-4ec3-b845-686c52434dd2.png" height="350"><img src="https://user-images.githubusercontent.com/130560587/232602696-dca2586b-035a-43c4-9756-feea6c9b5a8f.png" height="350">
 
 Conseguimos também, gerar uma extração para Excel do relatório como um todo, basta selecionarmos a opção XLSX.
 
